@@ -18,7 +18,7 @@ env:
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
   IMAGE_NAME: xenedium/ec-job-watcher
-  CONTEXT: ec-job-watcher
+  CONTEXT: .
 
 
 jobs:
