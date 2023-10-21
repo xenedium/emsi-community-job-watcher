@@ -5,7 +5,7 @@
 To quickly get started, you could use docker to run the watcher.
 
 ```bash
-docker run -d --name watcher -e EC_EMAIL=<your-email> EC_PASSWORD=<your-password> -e EC_DISCORD_WEBHOOK=<your-discord-webhook-url> xenedium/ec-job-watcher
+docker run -d --name watcher -e EC_EMAIL=<your-email> -e EC_PASSWORD=<your-password> -e EC_DISCORD_WEBHOOK=<your-discord-webhook-url> xenedium/ec-job-watcher
 ```
 
 ## Description
