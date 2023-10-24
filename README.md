@@ -16,6 +16,7 @@ This watcher will poll the EMSI Community job feed every 5 minutes and send a no
 
 The watcher is configured via environment variables.
 
+
 | Variable | Description |
 | --- | --- |
 | `EC_EMAIL` | Your EMSI Community email address. |
